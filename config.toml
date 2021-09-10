@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Maru Yasa"
+theme = "hugo-bearblog"
+enableRobotsTXT = true
+[menu]
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/Contact_me/'
+  weight = -110
